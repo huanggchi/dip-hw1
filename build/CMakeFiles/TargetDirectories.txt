@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/114-1多模態影像處理/dip-hw1/build/CMakeFiles/hw1a.dir
+C:/Users/user/Desktop/114-1多模態影像處理/dip-hw1/build/CMakeFiles/hw1b.dir
+C:/Users/user/Desktop/114-1多模態影像處理/dip-hw1/build/CMakeFiles/hw1c.dir
+C:/Users/user/Desktop/114-1多模態影像處理/dip-hw1/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/114-1多模態影像處理/dip-hw1/build/CMakeFiles/rebuild_cache.dir
