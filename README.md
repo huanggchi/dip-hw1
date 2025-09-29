@@ -1,6 +1,3 @@
-# dip-hw1
- Digital Image Processing Functions: Reading and Point Operation
-
 # DIP HW1 – Image Reading, Enhancement, and Resampling
 
 This repository (**dip-hw1**) contains three independent C++ programs developed for the **Multimodal Image Processing** course.  
