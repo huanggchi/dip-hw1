@@ -9,12 +9,15 @@ Each program demonstrates fundamental digital image processing operations, inclu
 ---
 ## Folder Structure
 dip-hw1
+
 ├─ src/ # C++ source code (hw1a.cpp, hw1b.cpp, hw1c.cpp)
 
 ├─ include/ # header files (e.g., stb_image_write.h)
 
 ├─ bin/ # compiled executables (.exe)
+
 ├─ data/ # input images (RAW and BMP)
+
 └─ output/ # generated results (PNG/JPG from each task)
 
 ---
