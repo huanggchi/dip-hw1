@@ -37,7 +37,11 @@ dip-hw1
 ### A. Image Reading
 ```powershell
 .\bin\hw1a.exe
+
 ### B. Image Enhancement
+```powershell
 .\bin\hw1b.exe
+
 ### C. Image Down/Up Sampling
+```powershell
 .\bin\hw1c.exe
