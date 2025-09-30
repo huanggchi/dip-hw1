@@ -9,7 +9,7 @@ dip-hw1
 
 ├─ src/ # C++ source code (hw1a.cpp, hw1b.cpp, hw1c.cpp)
 
-├─ include/ # header files (e.g., stb_image_write.h)
+├─ include/ # header files 
 
 ├─ bin/ # compiled executables (.exe)
 
@@ -37,11 +37,23 @@ dip-hw1
 ### A. Image Reading
 ```powershell
 .\bin\hw1a.exe
-
+```
 ### B. Image Enhancement
 ```powershell
 .\bin\hw1b.exe
-
+```
 ### C. Image Down/Up Sampling
 ```powershell
 .\bin\hw1c.exe
+```
+
+---
+## Citations
+> This project makes use of external references and libraries:
+
+Gonzalez, R. C., & Woods, R. E. Digital Image Processing, 4th Edition, Pearson, 2018.
+
+Jain, A. K. Fundamentals of Digital Image Processing, Prentice-Hall, 1989.
+
+Barrett, S. stb_image_write.h – Single-file public domain image writing library.
+Available at: https://github.com/nothings/stb
